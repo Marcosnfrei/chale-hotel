@@ -1,3 +1,3 @@
 # chale-hotel
 
-Acesse:  https://marcosnfrei.github.io/chale-hotel/
+Acesse:  https://marcosfreiberger.github.io/chale-hotel/
